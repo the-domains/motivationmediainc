@@ -1,0 +1,23 @@
+name: MotivationMediaInc
+favicon: null
+layout_spectrum: 0.6763627326581627
+typography_spectrum: 0.7001074480358511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8481216959189624
+  lightness: 0.8931689390446991
+  saturation: 0.8830494440626353
+  rhythmicContrast: 0.9656900465488434
+purpose: []
