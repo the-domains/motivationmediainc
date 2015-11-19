@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Motivation Media Inc.]]></title>
+        <description><![CDATA[Motivation Media Inc.]]></description>
+        <link>http://app.thegrid.io/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 03:52:33 GMT</lastBuildDate>
+        <atom:link href="http://app.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My First Post]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1198707-862f-408f-8fd0-202e667f1478.png"></article>]]></description>
+            <link>http://app.thegrid.io/my-first-post/index.html</link>
+            <guid isPermaLink="false">b145c8cf-2719-443c-a804-4463a5abf885</guid>
+            <pubDate>Thu, 19 Nov 2015 03:51:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
